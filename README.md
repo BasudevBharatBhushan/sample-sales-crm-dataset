@@ -107,8 +107,6 @@ Represents potential deals associated with an activity.
 ---
 
 ## 🔗 Relationships Overview
-
-
 ```mermaid
 erDiagram
     CONTACTS ||--o{ SALES : has
