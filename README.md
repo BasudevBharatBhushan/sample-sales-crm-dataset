@@ -1,6 +1,7 @@
 # 🧠 CRM + Sales Relational Dataset
 
 This dataset simulates a realistic CRM (Customer Relationship Management) and Sales system, ideal for testing multi-table reporting, ETL pipelines, and relational databases.
+🧬 This dataset was synthetically generated using ChatGPT.
 
 ---
 
@@ -107,6 +108,7 @@ Represents potential deals associated with an activity.
 
 ## 🔗 Relationships Overview
 
+
 ```mermaid
 erDiagram
     CONTACTS ||--o{ SALES : has
@@ -119,7 +121,4 @@ erDiagram
 
 
 
----
-
-🧬 *This dataset was synthetically generated using ChatGPT.*  
 
